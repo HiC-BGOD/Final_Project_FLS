@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-Final-Project-FLS/Content/Static/** filter=lfs diff=lfs merge=lfs -text
+Final_Project_FLS/Content/Static/** filter=lfs diff=lfs merge=lfs -text
